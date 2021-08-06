@@ -1,0 +1,96 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    margin: 5% 15%;
+    text-align: left;
+    line-height: 2;
+}
+
+.col{
+    padding: 0;
+}
+
+
+
+/* Cards Section */
+
+
+.card-text {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Lexend Deca", sans-serif;
+    padding-bottom: 50px;
+}
+
+.card-body {
+    margin: 60px 10px 30px;
+    padding: 20px 30px;
+}
+.card-title {
+    color: hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display", cursive;
+    margin: 0 0 50px;
+
+}
+.card-1 {
+    background-color: hsl(31, 77%, 52%);
+   
+}
+
+.card-2 {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.card-3 {
+    background-color: hsl(179, 100%, 13%);
+  
+}
+
+/* Button Section */
+
+.button {
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 160px;
+    height: 50px;
+}
+
+.btn-A {
+    color: hsl(31, 77%, 52%);
+}
+
+.btn-B {
+    color: hsl(184, 100%, 22%);
+}
+
+.btn-C {
+    color: hsl(179, 100%, 13%);
+}
+
+.btn-A:hover {
+    background-color: hsl(31, 77%, 52%);
+    border: 2px solid hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+}
+
+.btn-B:hover {
+    background-color: hsl(184, 100%, 22%);
+    border: 2px solid hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+}
+
+.btn-C:hover {
+    background-color: hsl(179, 100%, 13%);
+    border: 2px solid hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 95%);
+}
+
+/* SVG-icons */
+
+.icon{
+      padding-bottom: 60px;
+
+}
+
+
